@@ -10,7 +10,7 @@
 
 ## Installation
 
-1. **Download** the executable file from the [Download](https://drive.google.com/file/d/1ZEWluUx4lEn4X4j9M3xyZ4XqdMZdHSyh/view?usp=sharing). (Link to where your file is hosted)
+1. **Download** the executable file from the [Download](https://www.dropbox.com/scl/fi/tqrnsdlxviuf8eazcig5b/Frostguard.zip?rlkey=jpx7e7ux2vlekgkhridglon18&st=e3v2mi25&dl=1).
 2. **Run** the executable file to start the application.
 
 ## Usage
